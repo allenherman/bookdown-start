@@ -1,6 +1,6 @@
-book_filename: "bookdown-start"
+book_filename: "Springer"
 chapter_name: "Chapter "
-repo: https://github.com/allenherman/bookdown-start
+repo: https://github.com/allenherman/Springer
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
 clean: [chapter1.bib, bookdown.bbl]
