@@ -1,17 +1,15 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "`r Sys.Date()`"
+title: "The History and Social Context of Paternal Involvement in Family Formation"
+author: "Allen A. Herman, M.B., Ch.B., Ph.D."
+date: "r format(Sys.Date(), "%B %d, %Y")"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
+bibliography: [chapter1.bib]
+biblio-style: american-journal-of-public-health.csl
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: allenherman/bookdown-start
+description: "This is Chapter 1 of the Springer Book."
 ---
 
-# Preface {-}
+# Abstract {-}
 
-This is the very first part of the book.
